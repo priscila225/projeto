@@ -7,6 +7,6 @@ Para medir frequencia utilizamos os pinos:
  Para medir tensão utilizamos os pinos : 
     PTB0 e PTB1 do microcontrolador
 	
-O hardware foi implementado utilizando a placa programadora do kit IKHC908GR4  operando a 10 MHZ.Vide desenho.
+O hardware foi implementado utilizando a placa programadora do kit IKHC908GR4  operando a 10 MHZ.Vide desenho (Desenho_Frequencimetro.pdf).
 Código: Foram utilizadas bibliotecas open source para o display LCD
 
